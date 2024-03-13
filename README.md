@@ -1,2 +1,4 @@
 # vue-projects
-Vue Projects
+
+Simple ToDo App:
+https://github.com/companyakis/vue-simple-todo
